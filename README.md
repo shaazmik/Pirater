@@ -21,7 +21,7 @@
 </div>
 
 ## Presentation for our project protection in MIPT
-[presentation [PFD]](presentation[PDF].pdf)
+[presentation [PDF]](presentation[PDF].pdf)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
